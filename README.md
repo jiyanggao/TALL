@@ -9,4 +9,4 @@ Download the C3D features for [training set](https://drive.google.com/file/d/1zQ
 Download the Skip-thought sentence embeddings and sample files from [here](https://drive.google.com/file/d/1HF-hNFPvLrHwI5O7YvYKZWTeTxC5Mg1K/view?usp=sharing) of TACoS Dataset, and put them under exp_data folder.
 
 ### Training
-'python main.py'
+`python main.py`
